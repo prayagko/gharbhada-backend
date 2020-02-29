@@ -1,0 +1,5 @@
+.env
+.idea
+__pycache__
+s3.py
+config.py
